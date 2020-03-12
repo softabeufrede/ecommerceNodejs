@@ -1,0 +1,26 @@
+{
+  "name": "ecommercenodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softabeufrede/ecommerceNodejs.git"
+  },
+  "keywords": [],
+  "author": "ABEU KPIDI FREDERIC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softabeufrede/ecommerceNodejs/issues"
+  },
+  "homepage": "https://github.com/softabeufrede/ecommerceNodejs#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  }
+}
